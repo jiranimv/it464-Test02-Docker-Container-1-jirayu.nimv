@@ -80,4 +80,4 @@ file: ./it464-Test02-Docker-Container-1-jirayu.nimv/my-nginx.conf # (5.2) เต
 
 secrets:
   db_root_pass:
-file: it464-Test02-Docker-Container-1-jirayu.nimv/db_root_pass.txt # (5.3) เติมชื่อโฟลเดอร์และไฟล์ที่เก็บรหัสผ่านของฐานข้อมูล
+file: it464-Test02-Docker-Container-1-jirayu.nimv/db_root_pass.txt # (5.3) เติมชื่อโฟลเดอร์และไฟล์ที่เก็บรหัสผ่านของฐานข้อมูล 

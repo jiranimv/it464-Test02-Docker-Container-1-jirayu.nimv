@@ -18,4 +18,4 @@ INSERT INTO students (student_id, full_name, username, email, project_name, stat
 INSERT INTO students (student_id, full_name, username, email, project_name, status) VALUES 
 ('1640700001', 'Somsak Rakdee', 'somsak.r', 'somsak@example.com', 'Database Design', 'Submitted'),
 ('1640700002', 'Wichai Meesuk', 'wichai.m', 'wichai@example.com', 'Network Security', 'Approved'),
-('1640700003', 'Jane Watson', 'jane.w', 'jane@example.com', 'Cloud Computing', 'Rejected');
+('1640700003', 'Jane Watson', 'jane.w', 'jane@example.com', 'Cloud Computing', 'Rejected'); 
